@@ -11,7 +11,7 @@ race car -> rac ecar -> race car
 
 
 # Function
-Accepts a string value
-Returns a boolean value
-Only considers letters (a - z)
+Accepts a string value,
+Returns a boolean value,
+Only considers letters (a - z),
 Ignore case ('A' == 'a')
